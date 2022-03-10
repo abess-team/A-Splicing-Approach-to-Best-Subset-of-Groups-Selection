@@ -1,4 +1,4 @@
-## This repository contains data and code related to:
+## This repository contains codes and dataset related to:
 
  - Yanhang Zhang, Junxian Zhu, Jin Zhu, and Xueqin Wang (2021). Certifiably Polynomial Algorithm for Best Group Subset Selection. arXiv preprint arXiv:2104.12576.
 
