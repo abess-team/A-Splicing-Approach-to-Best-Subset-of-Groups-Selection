@@ -30,7 +30,7 @@ Please cite the following publications if you make use of the material here.
 The corresponding BibteX entries:
 
 ```
-@article{zhang2022,
+@article{zhang2021certifiably,
   title = {Certifiably polynomial algorithm for best group subset selection},
   author = {Yanhang Zhang and Junxian Zhu and Jin Zhu and Xueqin Wang},
   journal = {arXiv preprint arXiv:2104.12576},
