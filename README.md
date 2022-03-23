@@ -23,7 +23,7 @@ in *A Splicing Approach to Best Subset of Groups Selection*.
 
 Please cite the following publications if you make use of the material here.
 
-- Yanhang Zhang, Junxian Zhu, Jin Zhu, and Xueqin Wang (2021). Certifiably polynomial algorithm for best group subset selection. arXiv preprint arXiv:2104.12576.
+- Yanhang Zhang, Junxian Zhu, Jin Zhu, and Xueqin Wang (2021). Certifiably polynomial algorithm for best group subset selection. arXiv preprint arXiv:2104.12576, 2021.
 
 - Jin Zhu, Liyuan Hu, Junhao Huang, Kangkang Jiang, Yanhang Zhang, Shiyun Lin, Junxian Zhu, and Xueqin Wang (2021). abess: A Fast Best Subset Selection Library in Python and R. arXiv preprint arXiv:2110.09697, 2021.
 
