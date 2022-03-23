@@ -31,19 +31,19 @@ The corresponding BibteX entries:
 
 ```
 @article{zhang2022,
-  author = {Yanhang Zhang and Junxian Zhu and Jin Zhu and Xueqin Wang},
   title = {A Splicing Approach to Best Subset of Groups Selection},
+  author = {Yanhang Zhang and Junxian Zhu and Jin Zhu and Xueqin Wang},
   journal = {arXiv preprint arXiv:2104.12576},
-  year = {2022},
+  year = {2022}
 }
 ```
 and
 ```
 @article{zhu2021abess,
-  title={abess: A Fast Best Subset Selection Library in Python and R},
-  author={Zhu, Jin and Hu, Liyuan and Huang, Junhao and Jiang, Kangkang and Zhang, Yanhang and Lin, Shiyun and Zhu, Junxian and Wang, Xueqin},
-  journal={arXiv preprint arXiv:2110.09697},
-  year={2021}
+  title = {abess: A Fast Best Subset Selection Library in Python and R},
+  author = {Zhu, Jin and Hu, Liyuan and Huang, Junhao and Jiang, Kangkang and Zhang, Yanhang and Lin, Shiyun and Zhu, Junxian and Wang, Xueqin},
+  journal = {arXiv preprint arXiv:2110.09697},
+  year = {2021}
 }
 ```
 
