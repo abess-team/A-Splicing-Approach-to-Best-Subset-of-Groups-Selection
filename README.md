@@ -1,7 +1,7 @@
 
 # Group splicing numerical experiments
 This repository contains scripts to run the synthetic datasets and real-world dataset analysis described
-in *Certifiably Polynomial Algorithm for Best Group Subset Selection*. 
+in *A Splicing Approach to Best Subset of Groups Selection*. 
 
 ## Codes
 
@@ -23,18 +23,18 @@ in *Certifiably Polynomial Algorithm for Best Group Subset Selection*.
 
 Please cite the following publications if you make use of the material here.
 
-- Yanhang Zhang, Junxian Zhu, Jin Zhu, and Xueqin Wang (2021). Certifiably Polynomial Algorithm for Best Group Subset Selection. arXiv preprint arXiv:2104.12576.
+- Yanhang Zhang, Junxian Zhu, Jin Zhu, and Xueqin Wang (2022). A Splicing Approach to Best Subset of Groups Selection. arXiv preprint arXiv:2104.12576.
 
-- Jin Zhu, Liyuan Hu, Junhao Huang, Kangkang Jiang, Yanhang Zhang, Shiyun Lin, Junxian Zhu, and Xueqin Wang (2021). abess: A Fast Best Subset Selection Library in Python and R. arXiv:2110.09697, 2021.
+- Jin Zhu, Liyuan Hu, Junhao Huang, Kangkang Jiang, Yanhang Zhang, Shiyun Lin, Junxian Zhu, and Xueqin Wang (2021). abess: A Fast Best Subset Selection Library in Python and R. arXiv preprint arXiv:2110.09697, 2021.
 
 The corresponding BibteX entries:
 
 ```
-@article{zhang2021certifiably,
-  title={Certifiably polynomial algorithm for best group subset selection},
-  author={Zhang, Yanhang and Zhu, Junxian and Zhu, Jin and Wang, Xueqin},
-  journal={arXiv preprint arXiv:2104.12576},
-  year={2021}
+@article{2104.12576,
+author = {Yanhang Zhang and Junxian Zhu and Jin Zhu and Xueqin Wang},
+title = {A Splicing Approach to Best Subset of Groups Selection},
+year = {2022},
+journal = {arXiv preprint arXiv:2104.12576},
 }
 ```
 and
@@ -42,7 +42,7 @@ and
 @article{zhu-abess-arxiv,
   author    = {Jin Zhu and Liyuan Hu and Junhao Huang and Kangkang Jiang and Yanhang Zhang and Shiyun Lin and Junxian Zhu and Xueqin Wang},
   title     = {abess: A Fast Best Subset Selection Library in Python and R},
-  journal   = {arXiv:2110.09697},
+  journal   = {arXiv preprint arXiv:2110.09697},
   year      = {2021},
 }
 ```
