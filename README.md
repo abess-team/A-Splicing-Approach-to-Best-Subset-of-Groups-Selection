@@ -5,6 +5,7 @@ in *A Splicing Approach to Best Subset of Groups Selection*.
 
 ## Codes
 
+* `Additional_simulation/Code.py` : Python code used to compare the group splicing methods with the exact MIO-based approach.
 * `Synthetic_dataset_analysis/Synthetic_dataset_analysis.R` : R script used to run the synthetic datasets analysis.
 * `Real-world_dataset_analysis/Real-world_dataset_analysis.R` : R script used to run the real-world dataset analysis.
 * `Real-world_dataset_analysis/trim32.rda` : Dataset used in the real-world dataset analysis. 
