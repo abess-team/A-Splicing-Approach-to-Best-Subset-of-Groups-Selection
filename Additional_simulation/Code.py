@@ -147,7 +147,7 @@ for i in range(1, 51):
         true = np.zeros_like(np.unique(group))
         true[ind] = 1
     
-        # sequence search
+        # Sequence search (SGSplicing)
         t = time()
         model = abess.LinearRegression(ic_type="gic", ic_coef = 0.5)
         model.fit(X, y, group=group)
@@ -163,7 +163,7 @@ for i in range(1, 51):
             model.intercept_,
             beta) + [t]
     
-        # golden search
+        # Golden search (GGSplicing)
         t = time()
         model = abess.LinearRegression(ic_type="gic", path_type="gs", ic_coef = 0.5)
         model.fit(X, y, group=group)
@@ -179,7 +179,7 @@ for i in range(1, 51):
             model.intercept_,
             beta) + [t]
    
-        # approximate approach
+        # Approximate approach (CD+LS)
         t = time()
         result_cd = cd(X, y, group_indices, lam_max, nlam) 
         t = time() - t
@@ -192,7 +192,7 @@ for i in range(1, 51):
             result_cd[0],
             beta) + [t]
     
-        # exact MIO-based approach
+        # Exact MIO-based approach (BNB)
         t = time()
         result_bnb = cd_bnb(X, y, group_indices, lam_max, nlam) 
         t = time() - t
