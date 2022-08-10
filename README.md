@@ -30,7 +30,7 @@ Please cite the following publications if you make use of the material here.
 The corresponding BibteX entries:
 
 ```
-@article{zhang2021certifiably,
+@article{zhang2021,
   title = {A Splicing Approach to Best Subset of Groups Selection},
   author = {Yanhang Zhang and Junxian Zhu and Jin Zhu and Xueqin Wang},
   journal = {arXiv preprint arXiv:2104.12576},
