@@ -41,7 +41,7 @@ number = {0},
 pages = {null},
 year = {0},
 doi = {10.1287/ijoc.2022.1241},
-URL = {  https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2022.1241}
+URL = {https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2022.1241}
 }
 
 
