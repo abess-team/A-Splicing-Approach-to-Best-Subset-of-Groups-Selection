@@ -33,17 +33,13 @@ The corresponding BibteX entries:
 
 ```
 @article{doi:10.1287/ijoc.2022.1241,
-author = {Zhang, Yanhang and Zhu, Junxian and Zhu, Jin and Wang, Xueqin},
-title = {A Splicing Approach to Best Subset of Groups Selection},
-journal = {INFORMS Journal on Computing},
-volume = {0},
-number = {0},
-pages = {null},
-year = {0},
-doi = {10.1287/ijoc.2022.1241},
-URL = {https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2022.1241}
+  author = {Zhang, Yanhang and Zhu, Junxian and Zhu, Jin and Wang, Xueqin},
+  title = {A Splicing Approach to Best Subset of Groups Selection},
+  journal = {INFORMS Journal on Computing (Accepted)},
+  year = {2022},
+  doi = {10.1287/ijoc.2022.1241},
+  URL = {https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2022.1241}
 }
-
 
 ```
 and
