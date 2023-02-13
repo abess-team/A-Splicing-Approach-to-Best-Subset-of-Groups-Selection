@@ -23,9 +23,9 @@ in *A Splicing Approach to Best Subset of Groups Selection*.
 
 Please cite the following publications if you make use of the material here.
 
-- Yanhang Zhang, Junxian Zhu, Jin Zhu, and Xueqin Wang. A splicing approach to best subset
-of groups selection. INFORMS Journal on Computing, 0(0):null, 0. doi:10.1287/ijoc.2022.1241.
-URL https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2022.1241.
+- Yanhang Zhang, Junxian Zhu, Jin Zhu, and Xueqin Wang. A splicing approach to best
+subset of groups selection. INFORMS Journal on Computing, 35(1):104–119, 2023. doi:
+10.1287/ijoc.2022.1241. URL https://doi.org/10.1287/ijoc.2022.1241.
 
 - Jin Zhu, Xueqin Wang, Liyuan Hu, Junhao Huang, Kangkang Jiang, Yanhang Zhang, Shiyun Lin and Junxian Zhu (2022). abess: A Fast Best-Subset Selection Library in Python and R. Journal of Machine Learning Research, 23(202), 1-7.
 
@@ -33,12 +33,16 @@ The corresponding BibteX entries:
 
 ```
 @article{doi:10.1287/ijoc.2022.1241,
-  author = {Zhang, Yanhang and Zhu, Junxian and Zhu, Jin and Wang, Xueqin},
-  title = {A Splicing Approach to Best Subset of Groups Selection},
-  journal = {INFORMS Journal on Computing (Accepted)},
-  year = {2022},
-  doi = {10.1287/ijoc.2022.1241},
-  URL = {https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2022.1241}
+author = {Zhang, Yanhang and Zhu, Junxian and Zhu, Jin and Wang, Xueqin},
+title = {A Splicing Approach to Best Subset of Groups Selection},
+journal = {INFORMS Journal on Computing},
+volume = {35},
+number = {1},
+pages = {104-119},
+year = {2023},
+doi = {10.1287/ijoc.2022.1241},
+URL = {https://doi.org/10.1287/ijoc.2022.1241},
+eprint = { https://doi.org/10.1287/ijoc.2022.1241}
 }
 
 ```
